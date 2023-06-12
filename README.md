@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-- I am a Software Testing Engineer with **1.5 years** of experience in manual web testing. 
+- I am a Software Testing Engineer with >1.5 years of commercial experience in manual web testing. 
 - Focusing on polishing my Automation skills to become a Software Quality Engineer in Java.
 
 ## Languages & Tools

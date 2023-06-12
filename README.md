@@ -17,4 +17,4 @@
 
 ## Reach Me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-323236?style=for-the-badge&logo=telegram)](https://t.me/lawb4) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-323236?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yahor-labanau-a6b525193/)
+[![GMail](https://img.shields.io/badge/-gmail-323236?style=for-the-badge&logo=gmail)](mailto:yahorlabanau@gmail.com) [![Telegram](https://img.shields.io/badge/-Telegram-323236?style=for-the-badge&logo=telegram)](https://t.me/lawb4) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-323236?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yahor-labanau-a6b525193/)

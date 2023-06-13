@@ -2,7 +2,7 @@
 
 - I am a Software Testing Engineer with >1.5 years of commercial experience in manual web testing. 
 - Focusing on polishing my Automation skills to become a Software Quality Engineer in Java.
-- [My CV](https://github.com/lawb4/qa-portfolio/blob/main/CV_QA_YAHOR-LABANAU_v2.1.pdf)
+- [My CV](https://github.com/lawb4/qa-portfolio/blob/main/CV_QA_YAHOR-LABANAU_v2.2.pdf)
 
 ## Languages & Tools
 

@@ -14,6 +14,8 @@
 - [JavaRush](https://github.com/lawb4/java-rush)
 - [Java MOOC.fi](https://github.com/lawb4/java-mooc-fi)
 - [Java Beginners Track JetBrains Academy](https://github.com/lawb4/java-jetbrains-academy)
+- [RedRover.School AQA Java](https://github.com/lawb4/rryl7-java)
+- [Alan Richardson Java for Testers Practice](https://github.com/lawb4/arjftyl)
 - [EPAM JavaScript Mentoring Program](https://github.com/lawb4/js-qa-course)
 
 ## Reach Me

@@ -5,7 +5,8 @@
 - I will make a great addition to the team due to being proactive, focusing on solving business issues and willing to embrace lifelong learning.
 - Currently, learning Automation in Java to become a Full Stack QA Engineer so that I could be more involved in the SDLC/STLC by writing auto-tests on the manually documented test-cases and reviewing those of others.
 - Looking forward to new opportunities and possibilities to improve the delivery success of the projects I'm going to contribute to.
-- [My CV](https://github.com/lawb4/qa-portfolio/blob/main/CV_QA_YAHOR-LABANAU_v5.pdf)
+
+## [My CV](https://github.com/lawb4/qa-portfolio/blob/main/CV_QA_YAHOR-LABANAU_v5.pdf)
 
 ## Languages & Tools
 

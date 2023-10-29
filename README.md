@@ -8,7 +8,8 @@
 
 ## [Link to my CV](https://github.com/lawb4/qa-portfolio/blob/main/CV_QA_YAHOR-LABANAU_v5.2.pdf)
 
-## [Link to my Self-Presentation](https://github.com/lawb4/qa-portfolio/blob/main/Self-Presentation_QA-Engineer.pptx)
+## [Link to my Self-Presentation file](https://github.com/lawb4/qa-portfolio/blob/main/Self-Presentation_QA-Engineer.pptx)
+- [Link to video with my Presentation](https://www.loom.com/share/64abff0a28af4eda8d58a85eb6ab7877)
 
 ## Tools
 

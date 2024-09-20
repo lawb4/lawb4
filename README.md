@@ -18,6 +18,7 @@
 
 ## My Repos
 - [QA Portfolio](https://github.com/lawb4/qa-portfolio)
+- [NoBugs Babies (Automation Testing Course for Beginners](https://github.com/lawb4/nobugs-babies)
 - [JavaRush](https://github.com/lawb4/java-rush)
 - [Java MOOC.fi](https://github.com/lawb4/java-mooc-fi)
 - [Java Beginners Track JetBrains Academy](https://github.com/lawb4/java-jetbrains-academy)
